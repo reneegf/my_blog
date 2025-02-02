@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Renee's Blog"
+  site-url: https://reneegf.github.io/my_blog/
   navbar:
     right:
       - about.qmd

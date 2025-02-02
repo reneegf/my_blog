@@ -1,0 +1,13 @@
+---
+title: "Vegetarianism"
+author: "Renee Garcia Flores"
+date: "2025-02-01"
+categories: [2025, Thinking Project]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

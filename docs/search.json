@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "At the beginning of 2025 I started what I call my “Thinking Project”. During the last few months of 2024, I became very aware that people around me spend a lot of time thinking and researching topics they care about, stuff that’s not just interesting to them but also important for the world. I admire this and I realized I haven’t really been doing it myself. In a way, I feel like I haven’t been thinking enough.\nSo I want to change that! My plan is to pick a topic I’m interested in every month or two, dive into research, and actually form my own opinions about it. And, given that I could definitely use some improvement in my writing and making a webpage is fun, I’ll post about these topics here."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

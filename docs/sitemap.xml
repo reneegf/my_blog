@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://reneegf.github.io/my_blog/about.html</loc>
-    <lastmod>2025-02-03T14:13:28.484Z</lastmod>
+    <lastmod>2025-02-04T15:41:29.478Z</lastmod>
   </url>
   <url>
     <loc>https://reneegf.github.io/my_blog/index.html</loc>
-    <lastmod>2025-02-03T14:13:47.710Z</lastmod>
+    <lastmod>2025-02-04T15:58:34.031Z</lastmod>
   </url>
   <url>
     <loc>https://reneegf.github.io/my_blog/posts/post-with-code/index.html</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://reneegf.github.io/my_blog/posts/welcome/index.html</loc>
     <lastmod>2025-02-03T14:09:42.862Z</lastmod>
+  </url>
+  <url>
+    <loc>https://reneegf.github.io/my_blog/blog.html</loc>
+    <lastmod>2025-02-04T15:59:51.064Z</lastmod>
   </url>
 </urlset>

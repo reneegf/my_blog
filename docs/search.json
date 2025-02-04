@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Thinking Project",
+    "title": "About",
     "section": "",
-    "text": "Vegetarianism\n\n\n\n\n\n\n\n2025\n\n\nThinking Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2025\n\n\nRenee Garcia Flores\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJan 29, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "At the beginning of 2025, I started what I call my “Thinking Project.” In the last few months of 2024, I realized that the people around me spend a lot of time thinking deeply. They do research on topics they care about—ideas that aren’t just interesting to them but also important for the world. I admire that, and it made me reflect on my own habits. In a way, I felt like I wasn’t thinking enough.\nSo, I want to change that! My plan is to pick a topic every month or two, dive into research, and either form my own opinions or break down complex ideas. And since I could use some improvement in my writing (plus, making a webpage is fun), I’ll be posting about them here.\nThe Thinking Project has two parts:\nDeep Dives – I explore broad, socially relevant topics I am interested in. I research, reflect, and write to clarify my thoughts. These pieces are, in a way, more personal.\nFocus Sessions – I also started science-focused discussions with friends. Whenever I present, I’ll write about it here too. These pieces are more about facts than opinions.\n\nAt its core, this is an experiment in thinking more intentionally. \n \n\n\n\nRenee Garcia-Flores\n\nI’m a Mexican scientist and bioinformatician in training, currently pursuing my PhD at Cold Spring Harbor Laboratory. I study how diet influences cancer progression and also work on fostering diversity in STEM as Co-President of DIAS. Outside the lab, you’ll probably find me running, reading emotionally intense fiction, or hanging out with friends and family. If you want to know more about me and my trajectory, feel free to check out my webpage!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "At the beginning of 2025 I started what I call my “Thinking Project”. During the last few months of 2024, I became very aware that people around me spend a lot of time thinking and researching topics they care about, stuff that’s not just interesting to them but also important for the world. I admire this and I realized I haven’t really been doing it myself. In a way, I feel like I haven’t been thinking enough.\nSo I want to change that! My plan is to pick a topic I’m interested in every month or two, dive into research, and actually form my own opinions about it. And, given that I could definitely use some improvement in my writing and making a webpage is fun, I’ll post about these topics here."
+    "text": "At the beginning of 2025, I started what I call my “Thinking Project.” In the last few months of 2024, I realized that the people around me spend a lot of time thinking deeply. They do research on topics they care about—ideas that aren’t just interesting to them but also important for the world. I admire that, and it made me reflect on my own habits. In a way, I felt like I wasn’t thinking enough.\nSo, I want to change that! My plan is to pick a topic every month or two, dive into research, and either form my own opinions or break down complex ideas. And since I could use some improvement in my writing (plus, making a webpage is fun), I’ll be posting about them here.\nThe Thinking Project has two parts:\nDeep Dives – I explore broad, socially relevant topics I am interested in. I research, reflect, and write to clarify my thoughts. These pieces are, in a way, more personal.\nFocus Sessions – I also started science-focused discussions with friends. Whenever I present, I’ll write about it here too. These pieces are more about facts than opinions.\n\nAt its core, this is an experiment in thinking more intentionally. \n \n\n\n\nRenee Garcia-Flores\n\nI’m a Mexican scientist and bioinformatician in training, currently pursuing my PhD at Cold Spring Harbor Laboratory. I study how diet influences cancer progression and also work on fostering diversity in STEM as Co-President of DIAS. Outside the lab, you’ll probably find me running, reading emotionally intense fiction, or hanging out with friends and family. If you want to know more about me and my trajectory, feel free to check out my webpage!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Thinking Project",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nVegetarianism\n\n\n\n2025\n\n\nThinking Project\n\n\n\n\n\n\n\nRenee Garcia Flores\n\n\nFeb 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nJan 29, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

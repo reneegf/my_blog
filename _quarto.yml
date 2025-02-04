@@ -7,8 +7,8 @@ website:
   site-url: https://reneegf.github.io/my_blog/
   navbar:
     right:
-      - about.qmd
       - index.qmd
+      - blog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
@@ -16,6 +16,5 @@ website:
 format:
   html:
     theme: [cosmo, styles.scss]
-
 
 
